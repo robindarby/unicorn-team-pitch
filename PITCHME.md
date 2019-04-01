@@ -22,11 +22,15 @@
 
 ---?color=#f3f3f3
 
-### Location fingerprinting 
+### Location fingerprinting
+
+<iframe class="stretch" data-src="https://xumgm8mdzc.execute-api.us-east-1.amazonaws.com/dev/doiDevicesByLocation?longitude=-104.999451&latitude=39.752355&radius=50"></iframe>
 
 ---?color=#f3f3f3
 
 ### Location Verification
+
+![](assets/img/location_fingerprinting.png)
 
 ---?color=#f3f3f3
 
