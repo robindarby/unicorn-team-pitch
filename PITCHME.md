@@ -1,4 +1,4 @@
-# Let's Get Started
+## Signal collection via the Location SDK
 
 ---
 
