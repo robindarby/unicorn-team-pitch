@@ -1,6 +1,21 @@
 ### Signal collection via the Location SDK
 
+@snap[east span-50]
 ![](assets/img/unicorn_overview.png)
+@snapend
+
+@snap[west span-50]
+
+Signals:
+
+@ul[spaced text-white]
+- WiFi
+- Bluetooth
+- Cell tower
+- Sensor
+@ulend
+@snapend
+
 
 ---
 
