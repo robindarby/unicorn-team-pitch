@@ -36,6 +36,8 @@
 
 ### Indoor location provider
 
+![](assets/img/device_indoor_location.png)
+
 ---?color=#f3f3f3
 
 ### Location sharing
