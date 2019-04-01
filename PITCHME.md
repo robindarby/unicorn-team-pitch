@@ -1,6 +1,6 @@
 ---?color=#f3f3f3
 
-### Signal collection via the Unicorn Framework (Location SDK)
+### Signal collection via the Location SDK
 
 ![](assets/img/unicorn_overview.png)
 
@@ -8,6 +8,7 @@
 
 ### Visualizing RAW signal data
 
+<iframe class="stretch" data-src="https://unicron-nextgen.cloud.mapquest.com/"></iframe>
 
 ---?color=#f3f3f3
 
