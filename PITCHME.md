@@ -1,6 +1,6 @@
-## Signal collection via the Location SDK
+### Signal collection via the Location SDK
 
-![](assets/img/unicorn_overview.png | width=100)
+![](assets/img/unicorn_overview.png)
 
 ---
 
