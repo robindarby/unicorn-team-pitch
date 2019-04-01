@@ -1,5 +1,5 @@
 
-@snap[north]
+@snap[north span-100 headline]
 ### Signal collection via the Location SDK
 @snapend
 
