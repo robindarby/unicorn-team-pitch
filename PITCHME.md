@@ -39,3 +39,5 @@
 ---?color=#f3f3f3
 
 ### Location sharing
+
+![](assets/img/device_location_sharing.png)
