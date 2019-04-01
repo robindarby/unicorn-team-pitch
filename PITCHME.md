@@ -30,7 +30,7 @@
 
 ### Location Verification
 
-![](assets/img/location_fingerprinting.png)
+![](assets/img/location-fingerprinting.png)
 
 ---?color=#f3f3f3
 
