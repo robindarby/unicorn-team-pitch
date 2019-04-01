@@ -1,16 +1,16 @@
+
+@snap[north]
 ### Signal collection via the Location SDK
+@snapend
 
 @snap[west span-50]
-
 Signals:
-
 @ul[spaced text-white]
 - WiFi
 - Bluetooth
 - Cell tower
 - Sensor
 @ulend
-
 @snapend
 
 @snap[east span-50]
