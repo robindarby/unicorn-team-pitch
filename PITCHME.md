@@ -1,4 +1,4 @@
----?color=#f3f3f3
+---?image=assets/images/jetpack_unicorn.png&size=cover&opacity=20
 
 ### Unicorn Framework
 
