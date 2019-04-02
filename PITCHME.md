@@ -12,10 +12,6 @@
 
 ---?color=#f3f3f3
 
-### Hoofprints; geo-fencing
-
----?color=#f3f3f3
-
 ### Devices of interest
 
 <iframe class="stretch" data-src="https://5eu9km5w3g.execute-api.us-east-1.amazonaws.com/prod/static/plot_geojson.html"></iframe>
@@ -30,7 +26,7 @@
 
 ### Location Verification
 
-![](assets/img/location-fingerprinting.png)
+![](assets/img/location_veerification.png)
 
 ---?color=#f3f3f3
 
