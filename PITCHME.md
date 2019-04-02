@@ -1,8 +1,6 @@
----?image=assets/img/jetpack_unicorn.png&size=cover&opacity=10
+---?image=assets/img/jetpack_unicorn.png&size=cover&opacity=100
 
-### Unicorn Framework
-
-![](assets/img/unicorn_framework.png)
+## Unicorn Team
 
 ---?image=assets/img/jetpack_unicorn.png&size=cover&opacity=10
 
@@ -18,15 +16,15 @@
 
 ---?image=assets/img/jetpack_unicorn.png&size=cover&opacity=10
 
-### Devices of interest
+### Geo-fences
 
-<iframe class="stretch" data-src="https://5eu9km5w3g.execute-api.us-east-1.amazonaws.com/prod/static/plot_geojson.html"></iframe>
+<iframe class="stretch" data-src="https://hoofprints.cloud.mapquest.com/"></iframe>
 
 ---?image=assets/img/jetpack_unicorn.png&size=cover&opacity=10
 
-### Location fingerprinting
+### Devices of interest
 
-<iframe class="stretch" data-src="https://xumgm8mdzc.execute-api.us-east-1.amazonaws.com/dev/doiDevicesByLocation?longitude=-104.999451&latitude=39.752355&radius=50"></iframe>
+<iframe class="stretch" data-src="https://5eu9km5w3g.execute-api.us-east-1.amazonaws.com/prod/static/plot_geojson.html"></iframe>
 
 ---?image=assets/img/jetpack_unicorn.png&size=cover&opacity=10
 
