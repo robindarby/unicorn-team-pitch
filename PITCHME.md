@@ -26,7 +26,7 @@
 
 ### Location Verification
 
-![](assets/img/location_veerification.png)
+![](assets/img/location_verification.png)
 
 ---?color=#f3f3f3
 
