@@ -4,13 +4,15 @@
 
 ---?image=assets/img/jetpack_unicorn.png&size=cover&opacity=10
 
+@transition[zoom-in fade-out]
+
 ### Signal collection via the Location SDK
 
 ![](assets/img/unicorn_overview.png)
 
 ---?image=assets/img/jetpack_unicorn.png&size=cover&opacity=10
 
-### Visualizing RAW signal data
+### Visualizing signal data
 
 <iframe class="stretch" data-src="https://unicron-nextgen.cloud.mapquest.com/"></iframe>
 
@@ -28,7 +30,7 @@
 
 ---?image=assets/img/jetpack_unicorn.png&size=cover&opacity=10
 
-### Location Verification
+### Location verification
 
 ![](assets/img/location_verification.png)
 
