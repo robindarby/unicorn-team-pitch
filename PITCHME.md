@@ -1,6 +1,6 @@
 ---?image=assets/img/jetpack_unicorn.png&size=cover&opacity=100
 
-## Unicorn Team
+## @color[orange](Unicorn Team)
 
 ---?image=assets/img/jetpack_unicorn.png&size=cover&opacity=10
 
