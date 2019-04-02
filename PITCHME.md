@@ -1,10 +1,10 @@
 ---?image=assets/img/jetpack_unicorn.png&size=cover&opacity=100
 
+@transition[fade-out]
+
 ## @color[orange](Unicorn Team)
 
 ---?image=assets/img/jetpack_unicorn.png&size=cover&opacity=10
-
-@transition[zoom-in fade-out]
 
 ### Signal collection via the Location SDK
 
