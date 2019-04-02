@@ -1,8 +1,6 @@
 ---?image=assets/img/jetpack_unicorn.png&size=cover&opacity=100
 
-@transition[fade-out]
-
-## @color[orange](Unicorn Team)
+## @color[white](Unicorn Team)
 
 ---?image=assets/img/jetpack_unicorn.png&size=cover&opacity=10
 
