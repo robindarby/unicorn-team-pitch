@@ -24,7 +24,7 @@
 
 ### Devices of interest
 
-<iframe class="stretch" data-src="https://5eu9km5w3g.execute-api.us-east-1.amazonaws.com/prod/static/plot_geojson.html"></iframe>
+<iframe class="stretch" data-src="https://5eu9km5w3g.execute-api.us-east-1.amazonaws.com/prod/static/plot_doi.html"></iframe>
 
 ---?image=assets/img/jetpack_unicorn.png&size=cover&opacity=10
 
