@@ -11,14 +11,14 @@ theme : simple
 # Theme-Override Setting
 # Doc: https://gitpitch.com/docs/settings/custom-theme
 #
-#theme-override: assets/css/PITCHME.css
+theme-override: assets/css/PITCHME.css
 
 #
 # Logo Setting
 # https://gitpitch.com/docs/settings/logo
 #
 logo : assets/img/VZ_logo_white.png
-logo-postion : bottom-left
+logo-position : bottom-right
 
 #
 # Layout Setting
