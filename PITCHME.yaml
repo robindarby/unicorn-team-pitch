@@ -18,7 +18,7 @@ theme-override: assets/css/PITCHME.css
 # https://gitpitch.com/docs/settings/logo
 #
 logo : assets/img/VZ_logo_white.png
-logo-position : bottom-right
+logo-position : bottom-left
 
 #
 # Layout Setting
