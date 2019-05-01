@@ -33,13 +33,3 @@
 ![](assets/img/location_verification.png)
 
 ---?image=assets/img/jetpack_unicorn.png&size=cover&opacity=10
-
-### Indoor location provider
-
-![](assets/img/device_indoor_location.png)
-
----?image=assets/img/jetpack_unicorn.png&size=cover&opacity=10
-
-### Location sharing
-
-![](assets/img/device_location_sharing.png)
