@@ -10,6 +10,12 @@
 
 ---?image=assets/img/jetpack_unicorn.png&size=cover&opacity=10
 
+### 
+
+![](https://www.lucidchart.com/publicSegments/view/5bef60f7-0bda-4aff-bbc6-bfadb536b050/image.png)
+
+---?image=assets/img/jetpack_unicorn.png&size=cover&opacity=10
+
 ### Visualizing signal data
 
 <iframe class="stretch" data-src="https://unicron-nextgen.cloud.mapquest.com/"></iframe>
@@ -28,15 +34,15 @@
 
 ---?image=assets/img/jetpack_unicorn.png&size=cover&opacity=10
 
-### Location verification
-
-![](assets/img/location_verification.png)
-
----?image=assets/img/jetpack_unicorn.png&size=cover&opacity=10
-
 ### Indoor location provider
 
 ![](assets/img/device_indoor_location.png)
+
+---?image=assets/img/jetpack_unicorn.png&size=cover&opacity=10
+
+### Location Analytics
+
+![](https://www.lucidchart.com/publicSegments/view/dd76a67f-4fc2-4851-b4e1-e65300091393/image.png)
 
 ---?image=assets/img/jetpack_unicorn.png&size=cover&opacity=10
 
