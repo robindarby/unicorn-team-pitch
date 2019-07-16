@@ -44,6 +44,14 @@
 
 ---?image=assets/img/jetpack_unicorn.png&size=cover&opacity=10
 
+![](assets/img/heat_map1.png)
+
+---?image=assets/img/jetpack_unicorn.png&size=cover&opacity=10
+
+![](assets/img/heat_map2.png)
+
+---?image=assets/img/jetpack_unicorn.png&size=cover&opacity=10
+
 ### Location sharing
 
 ![](assets/img/device_location_sharing.png)
