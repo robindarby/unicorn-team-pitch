@@ -44,10 +44,6 @@
 
 ---?image=assets/img/jetpack_unicorn.png&size=cover&opacity=10
 
-<iframe class="stretch" data-src="https://www.public.asu.edu/~jiayu2/geospark/picture/overlay.html"></iframe>
-
----?image=assets/img/jetpack_unicorn.png&size=cover&opacity=10
-
 ### Location sharing
 
 ![](assets/img/device_location_sharing.png)
