@@ -34,7 +34,10 @@
 
 ### Indoor location provider
 
-![](assets/img/device_indoor_location.png) ![](assets/img/device_indoor_location2.png)
+<p align="center">
+  <img src="assets/img/device_indoor_location.png">
+  <img src="assets/img/device_indoor_location2.png">
+</p>
 
 ---?image=assets/img/jetpack_unicorn.png&size=cover&opacity=10
 
