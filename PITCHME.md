@@ -38,9 +38,6 @@
 
 ---?image=assets/img/jetpack_unicorn.png&size=cover&opacity=10
 
-![](assets/img/device_indoor_location2.png)
-
----?image=assets/img/jetpack_unicorn.png&size=cover&opacity=10
 
 ### Location Analytics
 
